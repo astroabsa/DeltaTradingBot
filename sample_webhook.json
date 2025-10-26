@@ -1,5 +1,6 @@
 {
-  "symbol": "SOLUSD.P",
+  "ticker": "NSE:NIFTY",
   "side": "buy",
-  "size": 1
+  "price": 19875.35,
+  "quantity": 1
 }
